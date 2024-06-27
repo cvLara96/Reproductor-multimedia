@@ -1,0 +1,52 @@
+{
+"recursos_list": [
+{
+"nombre": "Natos y Waor",
+"descripcion": "Piratas",
+"tipo": "0",
+"URI": "piratas",
+"imagen": "cicatrices"},
+{
+"nombre": "Al Safir",
+"descripcion": "Shars 2019",
+"tipo": "0",
+"URI": "shars",
+"imagen": "shars2019"},
+{
+"nombre": "System of a Down",
+"descripcion": "Chop Suey",
+"tipo": "1",
+"URI": "systemofadown",
+"imagen": "system"},
+{
+"nombre": "Michael Jackson",
+"descripcion": "Billie Jean",
+"tipo": "1",
+"URI": "mihaeljackson",
+"imagen": "michael"},
+{
+"nombre": "Elvis Presley",
+"descripcion": "Burning Love",
+"tipo": "2",
+"URI": "https://ia802705.us.archive.org/20/items/original-album-classics-elvis-gold-records-collection/Elvis%27%20Golden%20Records%2C%20Vol.%205/06%20Burning%20Love.mp3",
+"imagen": "elvis"},
+{
+"nombre": "Melendi",
+"descripcion": "Como una vela",
+"tipo": "2",
+"URI": "https://ia801606.us.archive.org/24/items/12-melendi-los-premios-pinocho_20230412/01-melendi-como_una_vela.mp3",
+"imagen": "melendi"},
+{
+"nombre": "Red Hot Chili Peppers",
+"descripcion": "Dani California",
+"tipo": "3",
+"URI": "https://ia800504.us.archive.org/18/items/Red_Hot_Chili_Peppers_Dani_California_/Red%20Hot%20Chili%20Peppers_Dani%20California%20.mp4",
+"imagen": "redhot"},
+{
+"nombre": "Red Hot Chili Peppers",
+"descripcion": "Otherside",
+"tipo": "3",
+"URI": "https://ia800500.us.archive.org/12/items/Red_Hot_Chili_Peppers_Otherside__/Red%20Hot%20Chili%20Peppers_Otherside%20%20.mp4",
+"imagen": "redhot"}
+]
+}
